@@ -1,11 +1,10 @@
-# pro-1
 #account creation
 repository is created ,three files are added ie; readme,.gitignore,license
 #after that we copied that link :-https
-git installation in local drive after that we created a folder with any name 
+git installation in local drive after that we created a folder with any name
 #after opening the pycharm we are cloned to that file
 $ git clone repository copied link we pasted here
-created python files 
+created python files
 $git add -A(to add all files)
 git add practice1(just to add only one file that we want)
 git commit -m "written some msgs about that file"(this is used to write a message)
