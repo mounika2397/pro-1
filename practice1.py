@@ -1,6 +1,7 @@
 x=int(input("enter first number:"))
 if x%2==0:
-    print("even number",x)
+    print("this is the even number",x)
 else:
-    print("odd number",x)
+    print("this is odd number",x)
     #hai this is my first project using git
+#just changed siome matter
