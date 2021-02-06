@@ -1,5 +1,5 @@
 x=int(input("enter first number:"))
-if x%2==0:
+if x/2==0:
     print("this is the even number",x)
 else:
     print("this is odd number",x)
